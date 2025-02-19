@@ -1,0 +1,2 @@
+Model,Training Loss,Training Accuracy,Validation Loss,Validation Accuracy,Testing Loss,Testing Accuracy
+CNN Base Model,0.29121074080467224,0.8800661563873291,0.4972158968448639,0.7928895950317383,0.504358172416687,0.7843202352523804
